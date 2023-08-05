@@ -1,0 +1,16 @@
+C:\Visual Studio Projects\CSharp_UDPServerClientApp\CSharp_UDPServerClientApp\bin\Debug\CSharp_UDPServerClientApp.exe.config
+C:\Visual Studio Projects\CSharp_UDPServerClientApp\CSharp_UDPServerClientApp\bin\Debug\CSharp_UDPServerClientApp.exe
+C:\Visual Studio Projects\CSharp_UDPServerClientApp\CSharp_UDPServerClientApp\bin\Debug\CSharp_UDPServerClientApp.pdb
+C:\Visual Studio Projects\CSharp_UDPServerClientApp\CSharp_UDPServerClientApp\obj\Debug\CSharp_UDPServerClientApp.csproj.AssemblyReference.cache
+C:\Visual Studio Projects\CSharp_UDPServerClientApp\CSharp_UDPServerClientApp\obj\Debug\CSharp_UDPServerClientApp.csproj.SuggestedBindingRedirects.cache
+C:\Visual Studio Projects\CSharp_UDPServerClientApp\CSharp_UDPServerClientApp\obj\Debug\CSharp_UDPServerClientApp.csproj.CoreCompileInputs.cache
+C:\Visual Studio Projects\CSharp_UDPServerClientApp\CSharp_UDPServerClientApp\obj\Debug\CSharp_UDPServerClientApp.exe
+C:\Visual Studio Projects\CSharp_UDPServerClientApp\CSharp_UDPServerClientApp\obj\Debug\CSharp_UDPServerClientApp.pdb
+C:\Visual Studio Projects\CSharp_UDPServerClientApp_Rev1\CSharp_UDPServerClientApp\bin\Debug\CSharp_UDPServerClientApp.exe.config
+C:\Visual Studio Projects\CSharp_UDPServerClientApp_Rev1\CSharp_UDPServerClientApp\bin\Debug\CSharp_UDPServerClientApp.exe
+C:\Visual Studio Projects\CSharp_UDPServerClientApp_Rev1\CSharp_UDPServerClientApp\bin\Debug\CSharp_UDPServerClientApp.pdb
+C:\Visual Studio Projects\CSharp_UDPServerClientApp_Rev1\CSharp_UDPServerClientApp\obj\Debug\CSharp_UDPServerClientApp.csproj.AssemblyReference.cache
+C:\Visual Studio Projects\CSharp_UDPServerClientApp_Rev1\CSharp_UDPServerClientApp\obj\Debug\CSharp_UDPServerClientApp.csproj.SuggestedBindingRedirects.cache
+C:\Visual Studio Projects\CSharp_UDPServerClientApp_Rev1\CSharp_UDPServerClientApp\obj\Debug\CSharp_UDPServerClientApp.csproj.CoreCompileInputs.cache
+C:\Visual Studio Projects\CSharp_UDPServerClientApp_Rev1\CSharp_UDPServerClientApp\obj\Debug\CSharp_UDPServerClientApp.exe
+C:\Visual Studio Projects\CSharp_UDPServerClientApp_Rev1\CSharp_UDPServerClientApp\obj\Debug\CSharp_UDPServerClientApp.pdb
